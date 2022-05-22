@@ -2,7 +2,7 @@
 
 Docker build was successful.
 
-'''
+```
 
 npm init
 
@@ -10,4 +10,4 @@ npm install express --save
 
 sudo docker build -t web-app .
 
-'''
+```
